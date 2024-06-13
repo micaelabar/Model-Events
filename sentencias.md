@@ -30,7 +30,6 @@ JOIN event e ON c.event_id = e.id;
 -Captura.
 <imag!![Imagen de WhatsApp 2024-06-12 a las 22 05 24_0aad3207](https://github.com/micaelabar/Model-Events/assets/148156209/c1f077f5-46d8-42bc-8bce-ef86b1d164bd)
 
-
 ## 4. Listar todos los miembros que se registraron en más de una conferencia:
  - Sentencia:
 ```
